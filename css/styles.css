@@ -31,3 +31,76 @@
 .logo{
   height:50px;
 }
+
+.banner{
+  background-color: grey;
+  height: 600px;
+}
+
+/*
+.banner{
+  background-image: url("../images/pet.jpg");
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center center;
+}
+
+*/
+
+.banner p{
+  padding: 22% 0% 0% 10%;
+  color: white;
+  font-weight: 500;
+  font-family: monteserrat sans-serif;
+  font-size: 28px;
+}
+
+.banner h1{
+  font-family: monteserrat sans-serif;
+  color: white;
+  padding: 1% 0% 0% 10%;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.banner h4{
+  padding: 1% 0% 4% 10%;
+  color: white;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+}
+
+.readmore{
+  border: none;
+  text-decoration:none;
+  border: solid 1px #f1e9e9;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  font-weight: 100;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  background-color:#003663;
+}
+
+.readmore:hover{
+  background-color:#000; 
+}
+
+.readmoree{
+    border: none;
+    text-decoration: none;
+    border: solid 1px #f1e9e9;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    margin-right: 20px;
+    font-weight: 100;
+    font-size: 24px;
+    font-family: monteserrat sans-serif;
+    background-color: transparent;
+}
+
+.readmoree:hover{
+  background-color:#000; 
+}
