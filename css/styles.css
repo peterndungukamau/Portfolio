@@ -1,0 +1,33 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+
+.navigation{
+  height: 85px;
+  float: right;
+  background-color: #000000c2;
+  position: fixed;
+  z-index: 3;
+  width: 100%;
+}
+
+.navigation ul > li{
+  padding-right: 70px;
+  padding-top: 15px;
+  display: inline-block;
+}
+.navigation ul > li >a{
+  text-decoration:none;
+  font-family:"Lato";
+  font-size:22px;
+  color:white;
+}
+
+.navigation ul > li >a:hover{
+  border-bottom:solid 2px #1556C1;
+}
+
+.logo{
+  height:50px;
+}
