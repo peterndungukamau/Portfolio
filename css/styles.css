@@ -104,3 +104,40 @@
 .readmoree:hover{
   background-color:#000; 
 }
+
+.About{
+  padding-top:5%;
+}
+
+.About h2{
+  padding: 1%;
+  color: #000;
+  font-size: 30px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+.About h4{
+    padding: 1%;
+    color: #000;
+    font-size: 30px;
+    font-family: monteserrat sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+.About p{
+  padding: 2%;
+  color: #000;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+.About hr{
+    background-color: #155FDA;
+    width: 10%;
+    height: 1px;
+}
