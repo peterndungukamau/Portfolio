@@ -269,3 +269,35 @@ background-color:#000;
   font-weight: 200;
   text-align: center;
 }
+
+#cent{
+  background-color: #e2e2e2;
+}
+
+.Coding h2{
+  padding: 1%;
+  color: #000;
+  font-size: 30px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+.Coding p{
+  padding: 1% 10% 2% 10%;
+  color: #000;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+.Coding hr{
+  background-color: #155FDA;
+  width: 10%;
+  height: 1px;
+}
+
+#Coding{
+  padding-top: 5%;
+}
+
