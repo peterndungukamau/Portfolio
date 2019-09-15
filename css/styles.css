@@ -301,3 +301,67 @@ background-color:#000;
   padding-top: 5%;
 }
 
+#Contact{
+  padding-top: 5%;
+}
+
+
+  .footer{
+    background-color:grey;
+    display:flex;
+    justify-content: space-around;
+  }
+  .footer ul > li >a{
+    color: white;
+    text-decoration:none;
+    font-family: "Lato";
+    font-size: 20px;
+  }
+ 
+
+  .footer ul > li{
+    display:block;
+    padding:10px;
+  }
+
+  ::placeholder {
+    color: black;
+    font-family: "Lato";
+    font-size: 14px;
+  }
+
+.mail{
+  border:none;
+  border-bottom: solid 1px white;
+  background-color: grey;
+  width: 100%;
+  padding:1%;
+}
+
+input{
+  padding-top: 3%;
+}
+
+.readmores{
+  border: none;
+  text-decoration: none;
+  border: solid 1px #f1e9e9;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  margin-right: 20px;
+  font-weight: 100;
+  border-radius:5%;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  background-color: #003663;
+  margin: 2%;
+}
+
+#con {
+  padding-top: 4%;
+  color: #000;
+  font-size: 30px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
