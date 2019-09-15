@@ -34,20 +34,12 @@
 }
 
 .banner{
-  background-color: grey;
-  height: 600px;
-}
-
-/*
-.banner{
   background-image: url("../images/pet.jpg");
   height: 600px;
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center center;
 }
-
-*/
 
 .banner p{
   padding: 22% 0% 0% 10%;

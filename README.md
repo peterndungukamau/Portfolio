@@ -12,6 +12,6 @@ This is a school project that explains who i am.Everything concerning my life in
 HTML 5
 CSS 3
 ## Here is the link to the site
-
+https://peterndungukamau.github.io/Portfolio/
 ### License
 Copyright (c) 2019 **Peter-Kamau**
