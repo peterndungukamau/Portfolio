@@ -1,6 +1,7 @@
 *{
   padding:0px;
   margin:0px;
+  scroll-behavior: smooth;
 }
 
 .navigation{
@@ -105,6 +106,24 @@
   background-color:#000; 
 }
 
+.readmoreee{
+  border: none;
+  text-decoration: none;
+  border: solid 1px #f1e9e9;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  margin-right: 20px;
+  font-weight: 100;
+  border-radius:5%;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  background-color: #003663;
+}
+
+.readmoreee:hover{
+background-color:#000; 
+}
+
 .About{
   padding-top:5%;
 }
@@ -128,7 +147,7 @@
 }
 
 .About p{
-  padding: 2%;
+  padding: 1% 10% 2% 10%;
   color: #000;
   font-size: 24px;
   font-family: monteserrat sans-serif;
@@ -140,4 +159,54 @@
     background-color: #155FDA;
     width: 10%;
     height: 1px;
+}
+
+.Portfolio h2{
+  padding: 1%;
+  color: #000;
+  font-size: 30px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+.Portfolio hr{
+  background-color: #155FDA;
+  width: 10%;
+  height: 1px;
+}
+
+.Portfolio p{
+  padding: 2%;
+  color: #000;
+  font-size: 24px;
+  font-family: monteserrat sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+.responsive{
+  height: auto;
+  width: 100%;
+}
+
+.samples{
+  display:flex;
+  justify-content: space-around;
+  padding-top: 3%;
+}
+
+#one > img{
+  width: 100%;
+  box-shadow: 2px 2px 2px 2px grey;
+  height: auto;
+}
+
+#one{
+  flex-direction: column;
+  font-family:monteserrat sans-serif;
+  padding: 10px;
+  text-align: center;
+  color: #000;
+  font-size: 20px;
 }
