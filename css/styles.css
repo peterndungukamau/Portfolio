@@ -367,4 +367,11 @@ input{
     z-index: 3;
     width: 100%;
 }
+.banner p {
+  padding: 60% 0% 0% 10%;
+  color: white;
+  font-weight: 500;
+  font-family: monteserrat sans-serif;
+  font-size: 28px;
+}
 }
