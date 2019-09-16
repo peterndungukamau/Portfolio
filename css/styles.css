@@ -357,3 +357,14 @@ input{
   font-weight: 200;
   text-align: center;
 }
+
+@media only screen and (max-width:760px){
+  .navigation {
+    height: auto;
+    float: right;
+    background-color: #000000c2;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+}
+}
